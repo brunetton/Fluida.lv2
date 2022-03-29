@@ -1,3 +1,5 @@
+**this is a fork** of Fluida, just to provide downloadable .so file (see https://github.com/brummer10/Fluida.lv2/issues/12)
+
 # Fluida.lv2
 
 Fluidsynth as LV2 plugin 
